@@ -1,0 +1,13 @@
+# Local development
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Node (in case accidentally installed)
+node_modules/
+package-lock.json
+
+# Web Browsers
+.ipynb_checkpoints/
