@@ -49,13 +49,12 @@ git add .
 # 3. Commit the changes
 git commit -m "Initial commit of clean TechPath project"
 
-# 4. Add your remote repository URL (Replace [YOUR_REPO_URL] with your real link)
-git remote add origin [YOUR_REPO_URL]
+# 4. 
+git remote add origin https://github.com/Codesahil-200/TechPath.git
 
 # 5. Push to the main branch
 git push -u origin main
 ```
 
 ---
-*Developed with ❤️ by Antigravity AI.*
 
